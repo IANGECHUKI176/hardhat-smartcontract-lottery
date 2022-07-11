@@ -1,0 +1,9 @@
+.history
+node_modules 
+.prettierrc 
+arifacts
+cache
+coverage
+.env
+coverage.json
+gas-report.txt

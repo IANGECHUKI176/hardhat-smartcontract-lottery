@@ -1,0 +1,5 @@
+- Get `subId` for the chainlink vrf
+- Deploy our contract using the `subId`
+- Register the contract with chainlink VRF and its subId
+- Register contract with chainlink Keepers
+- Run staging tests
